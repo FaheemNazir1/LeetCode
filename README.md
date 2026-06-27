@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/FaheemNazir1/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/FaheemNazir1/LeetCode/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/FaheemNazir1/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0875-koko-eating-bananas](https://github.com/FaheemNazir1/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/FaheemNazir1/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/FaheemNazir1/LeetCode/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/FaheemNazir1/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0875-koko-eating-bananas](https://github.com/FaheemNazir1/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
