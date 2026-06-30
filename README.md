@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/FaheemNazir1/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/FaheemNazir1/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/FaheemNazir1/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/FaheemNazir1/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/FaheemNazir1/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/FaheemNazir1/LeetCode/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/FaheemNazir1/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0875-koko-eating-bananas](https://github.com/FaheemNazir1/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/FaheemNazir1/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Math
 |  |
 | ------- |
