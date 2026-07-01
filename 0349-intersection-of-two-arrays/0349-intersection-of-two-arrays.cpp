@@ -17,7 +17,7 @@ public:
                 j++;
             }
             else {
-                st.insert(nums1[i]);
+                st.insert(nums2[j]);
                 i++;
                 j++;
             }
