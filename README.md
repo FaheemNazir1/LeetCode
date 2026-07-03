@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/FaheemNazir1/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/FaheemNazir1/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3110-score-of-a-string](https://github.com/FaheemNazir1/LeetCode/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/FaheemNazir1/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Counting
 |  |
