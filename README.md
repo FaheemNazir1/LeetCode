@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/FaheemNazir1/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/FaheemNazir1/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FaheemNazir1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/FaheemNazir1/LeetCode/tree/master/0389-find-the-difference) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/FaheemNazir1/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/FaheemNazir1/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/FaheemNazir1/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/FaheemNazir1/LeetCode/tree/master/0389-find-the-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/FaheemNazir1/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/FaheemNazir1/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3110-score-of-a-string](https://github.com/FaheemNazir1/LeetCode/tree/master/3110-score-of-a-string) |
@@ -74,4 +76,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/FaheemNazir1/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FaheemNazir1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/FaheemNazir1/LeetCode/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/FaheemNazir1/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
