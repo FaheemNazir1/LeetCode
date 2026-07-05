@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/FaheemNazir1/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/FaheemNazir1/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FaheemNazir1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/FaheemNazir1/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/FaheemNazir1/LeetCode/tree/master/0389-find-the-difference) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/FaheemNazir1/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/FaheemNazir1/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/FaheemNazir1/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/FaheemNazir1/LeetCode/tree/master/0389-find-the-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/FaheemNazir1/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/FaheemNazir1/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/FaheemNazir1/LeetCode/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/FaheemNazir1/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Array
 |  |
