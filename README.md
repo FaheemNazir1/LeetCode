@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/FaheemNazir1/LeetCode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/FaheemNazir1/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/FaheemNazir1/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/FaheemNazir1/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FaheemNazir1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -71,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/FaheemNazir1/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/FaheemNazir1/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/FaheemNazir1/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/FaheemNazir1/LeetCode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/FaheemNazir1/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1025-divisor-game](https://github.com/FaheemNazir1/LeetCode/tree/master/1025-divisor-game) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/FaheemNazir1/LeetCode/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/FaheemNazir1/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/FaheemNazir1/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FaheemNazir1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/FaheemNazir1/LeetCode/tree/master/0658-find-k-closest-elements) |
