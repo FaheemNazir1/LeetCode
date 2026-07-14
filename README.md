@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/FaheemNazir1/LeetCode/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/FaheemNazir1/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/FaheemNazir1/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/FaheemNazir1/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/FaheemNazir1/LeetCode/tree/master/0066-plus-one) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/FaheemNazir1/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/FaheemNazir1/LeetCode/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/FaheemNazir1/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/FaheemNazir1/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/FaheemNazir1/LeetCode/tree/master/0016-3sum-closest) |
 | [0349-intersection-of-two-arrays](https://github.com/FaheemNazir1/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FaheemNazir1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/FaheemNazir1/LeetCode/tree/master/0389-find-the-difference) |
