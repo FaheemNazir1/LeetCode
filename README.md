@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/FaheemNazir1/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/FaheemNazir1/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3637-trionic-array-i](https://github.com/FaheemNazir1/LeetCode/tree/master/3637-trionic-array-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/FaheemNazir1/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/FaheemNazir1/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1025-divisor-game](https://github.com/FaheemNazir1/LeetCode/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/FaheemNazir1/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/FaheemNazir1/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/FaheemNazir1/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FaheemNazir1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/FaheemNazir1/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/FaheemNazir1/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/FaheemNazir1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/FaheemNazir1/LeetCode/tree/master/0389-find-the-difference) |
 | [0658-find-k-closest-elements](https://github.com/FaheemNazir1/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/FaheemNazir1/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,4 +130,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/FaheemNazir1/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/FaheemNazir1/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/FaheemNazir1/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
