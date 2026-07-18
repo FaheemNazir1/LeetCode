@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/FaheemNazir1/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/FaheemNazir1/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/FaheemNazir1/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/FaheemNazir1/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/FaheemNazir1/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3637-trionic-array-i](https://github.com/FaheemNazir1/LeetCode/tree/master/3637-trionic-array-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/FaheemNazir1/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/FaheemNazir1/LeetCode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/FaheemNazir1/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1025-divisor-game](https://github.com/FaheemNazir1/LeetCode/tree/master/1025-divisor-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/FaheemNazir1/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/FaheemNazir1/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/FaheemNazir1/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/FaheemNazir1/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/FaheemNazir1/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/FaheemNazir1/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/FaheemNazir1/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/FaheemNazir1/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
