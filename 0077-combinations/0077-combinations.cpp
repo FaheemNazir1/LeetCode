@@ -1,24 +1,30 @@
 class Solution {
 public:
-    vector<vector<int>> combine(int n, int k) {
-        std::vector<std::vector<int>> res;
-        std::vector<int> comb;
 
-        backtrack(1, comb, res, n, k);
-        return res;        
-    }
+    void combo(vector<vector<int>>& ans, vector<int>& curr, int n, int k, int i) {
 
-private:
-    void backtrack(int start, std::vector<int>& comb, std::vector<std::vector<int>>& res, int n, int k) {
-        if (comb.size() == k) {
-            res.push_back(comb);
+        if (curr.size() == k) {
+
+            ans.push_back(curr);
             return;
         }
 
-        for (int num = start; num <= n; num++) {
-            comb.push_back(num);
-            backtrack(num + 1, comb, res, n, k);
-            comb.pop_back();
+        for (i; i <= n; i++) {
+
+            curr.push_back(i);
+            combo(ans, curr, n, k, i + 1);
+            curr.pop_back();
         }
-    }    
+    }
+
+    vector<vector<int>> combine(int n, int k) {
+
+        vector<vector<int>> ans;
+        vector<int> curr;
+        int i = 1;
+
+        combo(ans, curr, n, k, i);
+
+        return ans;
+    }
 };
