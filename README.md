@@ -168,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/FaheemNazir1/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/FaheemNazir1/LeetCode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
