@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/FaheemNazir1/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/FaheemNazir1/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/FaheemNazir1/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/FaheemNazir1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/FaheemNazir1/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/FaheemNazir1/LeetCode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/FaheemNazir1/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/FaheemNazir1/LeetCode/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/FaheemNazir1/LeetCode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/FaheemNazir1/LeetCode/tree/master/0077-combinations) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/FaheemNazir1/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
