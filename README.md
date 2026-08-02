@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/FaheemNazir1/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/FaheemNazir1/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/FaheemNazir1/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/FaheemNazir1/LeetCode/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/FaheemNazir1/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/FaheemNazir1/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/FaheemNazir1/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/FaheemNazir1/LeetCode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/FaheemNazir1/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FaheemNazir1/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/FaheemNazir1/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/FaheemNazir1/LeetCode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/FaheemNazir1/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/FaheemNazir1/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/FaheemNazir1/LeetCode/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/FaheemNazir1/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/FaheemNazir1/LeetCode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/FaheemNazir1/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/FaheemNazir1/LeetCode/tree/master/1025-divisor-game) |
 ## Heap (Priority Queue)
 |  |
