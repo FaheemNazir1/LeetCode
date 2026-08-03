@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/FaheemNazir1/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/FaheemNazir1/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/FaheemNazir1/LeetCode/tree/master/0389-find-the-difference) |
+| [1108-defanging-an-ip-address](https://github.com/FaheemNazir1/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/FaheemNazir1/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/FaheemNazir1/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3110-score-of-a-string](https://github.com/FaheemNazir1/LeetCode/tree/master/3110-score-of-a-string) |
