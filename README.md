@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/FaheemNazir1/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/FaheemNazir1/LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/FaheemNazir1/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0135-candy](https://github.com/FaheemNazir1/LeetCode/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/FaheemNazir1/LeetCode/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/FaheemNazir1/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/FaheemNazir1/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/FaheemNazir1/LeetCode/tree/master/0135-candy) |
 | [2029-stone-game-ix](https://github.com/FaheemNazir1/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
