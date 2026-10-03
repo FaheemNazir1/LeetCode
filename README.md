@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/FaheemNazir1/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/FaheemNazir1/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/FaheemNazir1/LeetCode/tree/master/0013-roman-to-integer) |
+| [0032-longest-valid-parentheses](https://github.com/FaheemNazir1/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/FaheemNazir1/LeetCode/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/FaheemNazir1/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/FaheemNazir1/LeetCode/tree/master/0290-word-pattern) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/FaheemNazir1/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/FaheemNazir1/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/FaheemNazir1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/FaheemNazir1/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/FaheemNazir1/LeetCode/tree/master/1025-divisor-game) |
@@ -234,4 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/FaheemNazir1/LeetCode/tree/master/0100-same-tree) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/FaheemNazir1/LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/FaheemNazir1/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
