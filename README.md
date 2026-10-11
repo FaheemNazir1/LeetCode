@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/FaheemNazir1/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/FaheemNazir1/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/FaheemNazir1/LeetCode/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/FaheemNazir1/LeetCode/tree/master/0394-decode-string) |
 | [1108-defanging-an-ip-address](https://github.com/FaheemNazir1/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/FaheemNazir1/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/FaheemNazir1/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/FaheemNazir1/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0394-decode-string](https://github.com/FaheemNazir1/LeetCode/tree/master/0394-decode-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/FaheemNazir1/LeetCode/tree/master/0036-valid-sudoku) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/FaheemNazir1/LeetCode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
