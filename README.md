@@ -309,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/FaheemNazir1/LeetCode/tree/master/0456-132-pattern) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/FaheemNazir1/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
