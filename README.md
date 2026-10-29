@@ -312,5 +312,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/FaheemNazir1/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/FaheemNazir1/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
