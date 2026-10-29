@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/FaheemNazir1/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/FaheemNazir1/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/FaheemNazir1/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/FaheemNazir1/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/FaheemNazir1/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/FaheemNazir1/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/FaheemNazir1/LeetCode/tree/master/0383-ransom-note) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/FaheemNazir1/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/FaheemNazir1/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/FaheemNazir1/LeetCode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/FaheemNazir1/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/FaheemNazir1/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/FaheemNazir1/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FaheemNazir1/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
