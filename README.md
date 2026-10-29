@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/FaheemNazir1/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/FaheemNazir1/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/FaheemNazir1/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/FaheemNazir1/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/FaheemNazir1/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/FaheemNazir1/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/FaheemNazir1/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/FaheemNazir1/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/FaheemNazir1/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/FaheemNazir1/LeetCode/tree/master/0125-valid-palindrome) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/FaheemNazir1/LeetCode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/FaheemNazir1/LeetCode/tree/master/0135-candy) |
 | [2029-stone-game-ix](https://github.com/FaheemNazir1/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
